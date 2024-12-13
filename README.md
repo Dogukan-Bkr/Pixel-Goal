@@ -12,8 +12,8 @@
 - Worked on AI development using state machine logic, though the implementation was not successful.
 - This project provided an opportunity to learn and practice essential skills in game development.
 
-#Game Icon
+# Game Icon
 ![GameIcon](https://github.com/user-attachments/assets/f2ab60f8-d4b2-4c12-8727-0a08905edcad)
 
-#In Game
+# In Game
 ![InGamePixel-Goal](https://github.com/user-attachments/assets/3107ed50-612a-4e88-9f58-11467b0965b8)
